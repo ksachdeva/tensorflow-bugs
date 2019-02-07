@@ -1,2 +1,6 @@
-# tensorflow-bugs
-Repository to show the bugs with the help of simple examples
+This branch shows the bug/issue associated with a custom callback accessing 'model' instance
+when using MirroredStrategy
+
+The link to the issue -:
+
+https://github.com/tensorflow/tensorflow/issues/25569
